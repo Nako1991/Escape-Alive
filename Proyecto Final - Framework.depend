@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1700344543 source:c:\users\brisa ortiz\onedrive\escritorio\escape alive\main.c
+	<stdlib.h>
+	<stdio.h>
+	"malloc.h"
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"debug.h"
+
+1697756362 c:\users\brisa ortiz\onedrive\escritorio\escape alive\debug.h
+	"debug.c"
+
+1697830114 c:\users\brisa ortiz\onedrive\escritorio\escape alive\debug.c
+	"stdlib.h"
+	"raylib.h"
+	<math.h>
+	<string.h>
+	"debug.h"
+
